@@ -1,0 +1,77 @@
+commit c19858966d7eadfd84829aafd2c70ed81aee0780
+Author: Juan Carlos <juancho.andrade@gmail.com>
+Date:   Mon Apr 15 21:05:49 2024 -0400
+
+    V1.2.6 Reemplazo de Archivo modificando un de sus versines anterioes V1.0
+
+commit 44469df19eb5c1e77b36f4be2927baaeb8e0a9ab
+Author: Juan Carlos <juancho.andrade@gmail.com>
+Date:   Mon Apr 15 20:51:04 2024 -0400
+
+    V1.2.5 Cambio de maestria.
+
+commit 875760114379da2af56f3c25488d25f0e52ea541
+Author: Juan Carlos <juancho.andrade@gmail.com>
+Date:   Mon Apr 15 20:50:12 2024 -0400
+
+    V1.2.4 Cambio a la ultima linea
+
+commit 2f8cf754d9b323337d192ea58d0ced808780aa73
+Author: Juan Carlos <juancho.andrade@gmail.com>
+Date:   Mon Apr 15 20:48:13 2024 -0400
+
+    V.1 HTML primer proyecto
+
+commit 256bf5c521c07c4658718df770f76e488242f1b6
+Author: Juan Carlos <juancho.andrade@gmail.com>
+Date:   Mon Apr 8 20:17:56 2024 -0400
+
+    V1.2.3 actualizacion ultima linea
+
+commit 1e866ae742a885554d0942b0d7ad55db04c83244
+Author: Juan Carlos <juancho.andrade@gmail.com>
+Date:   Mon Apr 8 18:48:35 2024 -0400
+
+    V1.2.1 ajuste linea 5
+
+commit 29f49cea2d733b4d8e97d76d0ad352ddce18e6dd
+Author: Juan Carlos <juancho.andrade@gmail.com>
+Date:   Thu Apr 4 23:01:52 2024 -0400
+
+    V1.1 se realizaron cambios a los tiempos
+
+commit cbc40857d109956f47d5e423ddd994f64d572c29
+Author: Juan Carlos <juancho.andrade@gmail.com>
+Date:   Thu Apr 4 22:45:37 2024 -0400
+
+    V1.0 Se suber el primer archivo de proyecto de vida.
+
+commit 780a446c3182d8c6351bfdc680a1389b92d0b085
+Author: Juan Carlos <juancho.andrade@gmail.com>
+Date:   Fri Feb 9 21:28:41 2024 -0500
+
+    ajuste edad
+
+commit b4439e3169bf102829b9dda88d1403a495003183
+Author: Juan Carlos <juancho.andrade@gmail.com>
+Date:   Fri Feb 9 21:16:24 2024 -0500
+
+    nueva mod. frases filosoficas
+
+commit df94df3a06e0afa6ca32e1df238888011e396aaf
+Author: Juan Carlos <juancho.andrade@gmail.com>
+Date:   Fri Feb 9 21:00:00 2024 -0500
+
+    Modificacion archivo se agrego una ultima linea
+
+commit 825e28c3be557f7dab6c84411457ca67effe0518
+Author: Juan Carlos <juancho.andrade@gmail.com>
+Date:   Fri Feb 9 20:00:39 2024 -0500
+
+    Cambios al archivo: ingreso de edad y especificar q esta viejo
+
+commit f3e5692712c3ebb1c7acc72decbe1123ea8e9ac0
+Author: Juan Carlos <juancho.andrade@gmail.com>
+Date:   Fri Feb 9 19:56:09 2024 -0500
+
+    Primera version de Historia
